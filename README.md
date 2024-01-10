@@ -7,6 +7,7 @@ This repository contains the code for a Recipe App, where users can search for t
 - Usage
 - File Structure
 - Technologies Used
+- License
 
 ## Features
 - Search for recipes using a search box.
@@ -48,3 +49,6 @@ cd RecipeApp
 - JavaScript (ES6+)
 - Font Awesome for icons
 - The Meal DB API for recipe data
+
+## License
+This project is licensed under the MIT License.
